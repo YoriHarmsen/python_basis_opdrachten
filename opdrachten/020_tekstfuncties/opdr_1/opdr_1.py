@@ -17,3 +17,10 @@ achternaam = "einstein"
 
 
 print()
+
+Stukje_Text = ["O mamma mia, wat maak je toch heerlijke pizza's"]
+fname = "Albert"
+Lname = "Einstein"
+fullname = F"{fname} {Lname}"
+print(Stukje_Text)
+print(fullname.title())

@@ -2,8 +2,8 @@
 # Naam student:
 # Groep:
 
-# Hier komt je code...
+# Hier komt je code...> De letter "t" komt 10x voor in my_string
 
-my_list = ...
+my_list = ["De letter" "T" "komt 10x voor in my_string"] 
 
-print()
+print(my_list)
