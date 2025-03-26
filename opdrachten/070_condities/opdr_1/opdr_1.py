@@ -6,7 +6,8 @@
 
 # Hier start de for-loop....
 
-my_list = []
+my_list = getallen = list(range(1, 11))
 
-#for loop
-#if statement
+# Filter en print alleen getallen >4
+resultaat = [x for x in getallen if x > 4]
+print(resultaat)

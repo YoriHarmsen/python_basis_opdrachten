@@ -1,0 +1,4 @@
+=== Enquête Resultaten ===
+1. Huidige regering: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_2/opdr_2.py
+2. Python-lessen: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_3/opdr_3.py
+3. Mooiste stad: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_3/opdr_3.py

@@ -1,0 +1,18 @@
+----
+voornaam: yori harmsen
+achternaam: harmsen
+drank: fris
+eten: ad
+
+----
+voornaam: yori
+achternaam: harmsen
+drank: fris
+eten: hdsfakajsf
+
+----
+voornaam: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/070_condities/opdr_4/opdr_4.py
+achternaam: bsdgf
+drank: sdg
+eten: sdfg
+

@@ -6,4 +6,5 @@
 
 # Hier start de for-loop....
 
-my_list = []
+my_list = resultaat = [nummer for nummer in range(1, 11)]
+print(resultaat)
