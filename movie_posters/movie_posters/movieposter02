@@ -1,0 +1,23 @@
+import os
+
+# Relatief pad naar de map met posters
+MAP = os.path.join("movie_posters", "movie_posters")
+
+def hernoem_bestanden():
+    bestanden = [f for f in os.listdir(MAP) if os.path.isfile(os.path.join(MAP, f))]
+
+    bestanden.sort()  # Sorteer alfabetisch
+
+    for index, bestandsnaam in enumerate(bestanden, start=1):
+        extensie = os.path.splitext(bestandsnaam)[1]
+        nieuwe_naam = f"movieposter{index:02d}{extensie}"
+
+        oud_pad = os.path.join(MAP, bestandsnaam)
+        nieuw_pad = os.path.join(MAP, nieuwe_naam)
+
+        os.rename(oud_pad, nieuw_pad)
+
+    print("✅ Alle bestanden zijn hernoemd.")
+
+if __name__ == "__main__":
+    hernoem_bestanden()

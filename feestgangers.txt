@@ -16,3 +16,9 @@ achternaam: bsdgf
 drank: sdg
 eten: sdfg
 
+----
+voornaam: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_4/opdr_4.py
+achternaam: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_4/opdr_4.py
+drank: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_4/opdr_4.py
+eten: & C:/Users/harms/AppData/Local/Programs/Python/Python313/python.exe c:/pycharm/python_basis_opdrachten/opdrachten/090_functies/opdr_2/opdr_2.py
+
